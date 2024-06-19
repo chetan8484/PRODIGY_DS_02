@@ -4,7 +4,7 @@ Titanic-EDA
 Exploratory Data analysis of the Titanic disaster dataset
 
 Requirements:
-Python 3.x, Jupyter Notebook , Numpy, Pandas, Matplotlib, Seaborn
+Python 3.x, Google Colab , Numpy, Pandas, Matplotlib, Seaborn
 
 The notebook is also added with comments for its major steps for better understanding of the process.
 
